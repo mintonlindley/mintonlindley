@@ -1,5 +1,7 @@
 # Hi there, my name is Lindley 👋
 
+<img src="headshot.jpeg" alt="Your Name" width="200">
+
 🎓 Honors Cyber Criminology student at Florida State University (Class of 2027)
 
 🤖 Break Through Tech AI Fellow
