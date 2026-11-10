@@ -7,7 +7,7 @@
 🤖 Break Through Tech AI Fellow
 
 # A little bit about me...
-I'm passionate about using technology to solve real-world problems through AI, cybersecurity, and web development. My background in graphic design and digital communications gives me a unique perspective on building technology that's both functional and engaging.
+I'm passionate about using technology to solve real-world problems through AI, cybersecurity, and web development. My background in graphic design and digital communications gives me a unique perspective on building technology that's both functional and engaging. I'm interested in exploring opportunities that combine technology, creative problem-solving, and communication, particularly in areas like digital marketing, data analytics, and technology-driven business solutions.
 
 ### Currently
 - 🤖 Learning Machine Learning & AI
